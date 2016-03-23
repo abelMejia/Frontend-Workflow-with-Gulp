@@ -1,8 +1,8 @@
-##	Frontend Workflow
+ ##	Frontend Workflow
 
-Frontend workflow with Gulp
+ Frontend workflow with Gulp
 
-## Installation
+ ## Installation
 
 1. Install [node.js](http://nodejs.org/)
 2. Clone the git repo `git clone https://github.com/abelMejia/Frontend-Workflow-with-Gulp.git`
