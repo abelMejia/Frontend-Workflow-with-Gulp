@@ -1,6 +1,6 @@
 ##	Frontend Workflow
 
- Frontend workflow with [Gulp](http://nodejs.org/)
+ Frontend workflow with [Gulp](http://gulpjs.com/)
 
 ## Installation
 
