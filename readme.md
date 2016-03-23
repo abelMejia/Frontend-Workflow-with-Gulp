@@ -10,5 +10,10 @@ Frontend workflow with Gulp
 4. Install dependencies `npm install`
 
 
+##  Development
+
+To start developing, go to the project folder in your terminal and run
+
+gulp
 
 
