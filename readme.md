@@ -1,4 +1,4 @@
-##	FRONTEND WORKFLOW
+##	Frontend Workflow
 
 	Frontend workflow with Gulp
 
