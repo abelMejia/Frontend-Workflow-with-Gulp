@@ -2,6 +2,9 @@
 
  Frontend workflow with [Gulp](http://gulpjs.com/) and [npm](https://www.npmjs.com/)
 
+## Package
++ Uses jade, angularJS, Stylus, ECMA6, Materialize, Bootstrap, npm 
+
 ## Installation
 
 1. Install [node.js](http://nodejs.org/)
