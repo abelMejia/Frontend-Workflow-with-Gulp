@@ -1,5 +1,5 @@
 ##	Frontend Workflow
 
-	Frontend workflow with Gulp
+Frontend workflow with Gulp
 
 
