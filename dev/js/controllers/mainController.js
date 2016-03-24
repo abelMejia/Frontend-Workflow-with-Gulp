@@ -1,5 +1,5 @@
 angular
 .module('mainController',[])
-.controller('mainController', ($scope) => {
+.controller('mainController', function ($scope)  {
 	this.hello = 'Hola desde Login'
 })

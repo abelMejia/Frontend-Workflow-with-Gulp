@@ -1,10 +1,9 @@
 angular
 .module('Login', [])
-.directive('login', () => {
+.directive('login', function () {
 	return {
-		restrict: 'AE', 
 		replace: true,
-		controller: 'loginController as LoginController',
+		controller: 'loginController as login',
 		templateUrl: 'js/directives/login/tpl.html'
 	}
 })
